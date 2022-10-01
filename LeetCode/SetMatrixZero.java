@@ -1,4 +1,5 @@
-class Solution{
+class Solution
+{
 static void setZeroes(int[][] matrix) {
         int col0 = 1, rows = matrix.length, cols = matrix[0].length;
 
