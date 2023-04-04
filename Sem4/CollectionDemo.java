@@ -1,5 +1,11 @@
-import java.util.*;
-
+import java.util.List;
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Map;
+import java.util.LinkedHashMap;
+import java.util.TreeMap;
+import java.util.Set;
+import java.util.HashSet;
 public class CollectionDemo {
    public static void main(String[] args) {
 
